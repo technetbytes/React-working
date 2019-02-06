@@ -1,2 +1,2 @@
-This is sample in Express and Reactjs that use password-generator package.
+This is sample in Express and React.js that use password-generator package.
 
