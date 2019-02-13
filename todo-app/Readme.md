@@ -7,3 +7,8 @@
 **Express:** A Fast, unopinionated, minimalist web framework for Node.js
 
 **React:** A JavaScript front-end library for building user interfaces
+
+## Folders
+
+**todo-backend**	Backend implementation in Express
+**todo-crud-app** Front-End implementation in React
