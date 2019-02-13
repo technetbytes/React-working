@@ -11,10 +11,10 @@ class App extends Component {
       <Router>
         <div className="container">
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="https://codingthesmartway.com" target="_blank">
-              <img src="logo.svg" width="30" height="30" alt="CaaSHub.com" />
+            <a class="navbar-brand" href="https://caashub.com" target="_blank">
+              <img src="http://caashub.com/wp-content/uploads/2018/01/logo-1.png" alt="CaaSHub.com" />
             </a>
-            <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
+            <Link to="/" className="navbar-brand">Todo App</Link>
             <div className="collpase navbar-collapse">
               <ul className="navbar-nav mr-auto">
                 <li className="navbar-item">
